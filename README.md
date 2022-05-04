@@ -3,7 +3,7 @@ HSE Data Task repo
 
 
 # TASK
-Using source.py NOTICES and CASES dicts scrape pages and save HTML tables as CSV/XLSX data.
+Using src/source.py NOTICES and CASES dicts scrape pages and save HTML tables as CSV/XLSX data.
 If have time let's scrape linked data also such and detailed pages as well as breaches.
 
 
